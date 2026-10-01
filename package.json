@@ -1,0 +1,14 @@
+{
+  "name": "coop-manager",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Internal ProDVX application for managing cooperation and account manager results.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
